@@ -1,0 +1,11 @@
+{
+  "dados": {
+    "produto": "Projeto Kor",
+    "cliente": "gen-tv",
+    "licenciado": "generico",
+    "estado": "ativa",
+    "emitido": "2026-11-26T12:12:29",
+    "validade": "2027-12-31"
+  },
+  "assinatura": "38e0fb95591356b9c8deca553e3136fdeb66daddf2ef3495bb1516d19bbb98228468454dbf2f3a797ff44a534c000390e67ad35bbfa09d617d6244ced9c14a09"
+}
