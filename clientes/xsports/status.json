@@ -2,10 +2,10 @@
   "dados": {
     "produto": "Projeto Kor",
     "cliente": "xsports",
-    "licenciado": "IDTV",
+    "licenciado": "idtv",
     "estado": "ativa",
-    "emitido": "2026-11-27T13:53:36",
+    "emitido": "2026-11-27T14:01:44",
     "validade": "2027-01-30"
   },
-  "assinatura": "76ca3f5ef06e6fe3be3ff288ba7b2e2fdab85a855a49db3267f656059bd3ca4c82babe47dc7362a8717644a5cf097991ca7fe1553d1bc8696eb56077418c2603"
+  "assinatura": "10c0b161305310cf1d97d2171902a14a76e236055a4b109b2dca4055b4919658d3e01163b774df2938d0426867d24ac5fe1d826d020a591a18e0fe6f9874bb0c"
 }
